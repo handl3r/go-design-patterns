@@ -1,4 +1,4 @@
-package creational_patterns
+package factory_method
 
 import "fmt"
 
